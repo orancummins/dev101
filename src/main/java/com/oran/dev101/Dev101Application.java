@@ -13,6 +13,7 @@ public class Dev101Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Dev101Application.class, args);
+
     }
 
     @Bean
